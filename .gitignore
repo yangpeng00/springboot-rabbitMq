@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+/springboot-rabbitmq-receive/mvnw
+/springboot-rabbitmq-receive/mvnw.cmd
+/springboot-rabbitmq-sender/mvnw
+/springboot-rabbitmq-sender/mvnw.cmd
